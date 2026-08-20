@@ -1,0 +1,887 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "Demo_Faceted_Apex_50mm": {
+            "star_size": "50",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "6",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "5"
+        },
+        "Demo_Top_Edge_Fillet_50mm": {
+            "star_size": "50",
+            "inner_radius_percent": "45",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "2",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "5"
+        },
+        "Design_A_3mm": {
+            "star_size": "3",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.36"
+        },
+        "Design_A_4mm": {
+            "star_size": "4",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.48"
+        },
+        "Design_A_5mm": {
+            "star_size": "5",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.6"
+        },
+        "Design_A_6mm": {
+            "star_size": "6",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.72"
+        },
+        "Design_A_7mm": {
+            "star_size": "7",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.84"
+        },
+        "Design_A_8mm": {
+            "star_size": "8",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.96"
+        },
+        "Design_A_9mm": {
+            "star_size": "9",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "1.08"
+        },
+        "Design_A_10mm": {
+            "star_size": "10",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "1.2"
+        },
+        "Design_A_11mm": {
+            "star_size": "11",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "1.31"
+        },
+        "Design_A_12mm": {
+            "star_size": "12",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "1.44"
+        },
+        "Design_A_14mm": {
+            "star_size": "14",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "1.68"
+        },
+        "Design_A_16mm": {
+            "star_size": "16",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "1.92"
+        },
+        "Design_A_18mm": {
+            "star_size": "18",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "2.16"
+        },
+        "Design_A_20mm": {
+            "star_size": "20",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "2.4"
+        },
+        "Design_A_24mm": {
+            "star_size": "24",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "2.88"
+        },
+        "Design_A_28mm": {
+            "star_size": "28",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "3.36"
+        },
+        "Design_A_32mm": {
+            "star_size": "32",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "3.84"
+        },
+        "Design_A_38mm": {
+            "star_size": "38",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "4.55"
+        },
+        "Design_A_46mm": {
+            "star_size": "46",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "5.52"
+        },
+        "Design_A_60mm": {
+            "star_size": "60",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "7.19"
+        },
+        "Design_A_80mm": {
+            "star_size": "80",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "9.6"
+        },
+        "Design_A_100mm": {
+            "star_size": "100",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "12"
+        },
+        "Design_A_150mm": {
+            "star_size": "150",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "18"
+        },
+        "Design_A_200mm": {
+            "star_size": "200",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "24"
+        },
+        "Design_B_3mm": {
+            "star_size": "3",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "4",
+            "wall_thickness": "0.36"
+        },
+        "Design_B_4mm": {
+            "star_size": "4",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "4",
+            "wall_thickness": "0.48"
+        },
+        "Design_B_5mm": {
+            "star_size": "5",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "4",
+            "wall_thickness": "0.6"
+        },
+        "Design_B_6mm": {
+            "star_size": "6",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "4",
+            "wall_thickness": "0.72"
+        },
+        "Design_B_7mm": {
+            "star_size": "7",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "4",
+            "wall_thickness": "0.84"
+        },
+        "Design_B_8mm": {
+            "star_size": "8",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "4",
+            "wall_thickness": "0.96"
+        },
+        "Design_B_9mm": {
+            "star_size": "9",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "4",
+            "wall_thickness": "1.08"
+        },
+        "Design_B_10mm": {
+            "star_size": "10",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "4",
+            "wall_thickness": "1.2"
+        },
+        "Design_B_11mm": {
+            "star_size": "11",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "4",
+            "wall_thickness": "1.31"
+        },
+        "Design_B_12mm": {
+            "star_size": "12",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "4",
+            "wall_thickness": "1.44"
+        },
+        "Design_B_14mm": {
+            "star_size": "14",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "4",
+            "wall_thickness": "1.68"
+        },
+        "Design_B_16mm": {
+            "star_size": "16",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "4",
+            "wall_thickness": "1.92"
+        },
+        "Design_B_18mm": {
+            "star_size": "18",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "4",
+            "wall_thickness": "2.16"
+        },
+        "Design_B_20mm": {
+            "star_size": "20",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "4",
+            "wall_thickness": "2.4"
+        },
+        "Design_B_24mm": {
+            "star_size": "24",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "4",
+            "wall_thickness": "2.88"
+        },
+        "Design_B_28mm": {
+            "star_size": "28",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "4",
+            "wall_thickness": "3.36"
+        },
+        "Design_B_32mm": {
+            "star_size": "32",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "4",
+            "wall_thickness": "3.84"
+        },
+        "Design_B_38mm": {
+            "star_size": "38",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "4",
+            "wall_thickness": "4.55"
+        },
+        "Design_B_46mm": {
+            "star_size": "46",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "4",
+            "wall_thickness": "5.52"
+        },
+        "Design_B_60mm": {
+            "star_size": "60",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "4",
+            "wall_thickness": "7.19"
+        },
+        "Design_B_80mm": {
+            "star_size": "80",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "4",
+            "wall_thickness": "9.6"
+        },
+        "Design_B_100mm": {
+            "star_size": "100",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "4",
+            "wall_thickness": "12"
+        },
+        "Design_B_150mm": {
+            "star_size": "150",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "4",
+            "wall_thickness": "18"
+        },
+        "Design_B_200mm": {
+            "star_size": "200",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "4",
+            "wall_thickness": "24"
+        },
+        "Design_C_3mm": {
+            "star_size": "3",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0.36",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.2"
+        },
+        "Design_C_4mm": {
+            "star_size": "4",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0.48",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.2"
+        },
+        "Design_C_5mm": {
+            "star_size": "5",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0.6",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.2"
+        },
+        "Design_C_6mm": {
+            "star_size": "6",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0.72",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.2"
+        },
+        "Design_C_7mm": {
+            "star_size": "7",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0.84",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.2"
+        },
+        "Design_C_8mm": {
+            "star_size": "8",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "0.96",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.2"
+        },
+        "Design_C_9mm": {
+            "star_size": "9",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "1.08",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.2"
+        },
+        "Design_C_10mm": {
+            "star_size": "10",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "1.2",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.2"
+        },
+        "Design_C_11mm": {
+            "star_size": "11",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "1.31",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.2"
+        },
+        "Design_C_12mm": {
+            "star_size": "12",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "1.44",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.2"
+        },
+        "Design_C_14mm": {
+            "star_size": "14",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "1.68",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.2"
+        },
+        "Design_C_16mm": {
+            "star_size": "16",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "1.92",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.2"
+        },
+        "Design_C_18mm": {
+            "star_size": "18",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "2.16",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.2"
+        },
+        "Design_C_20mm": {
+            "star_size": "20",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "2.4",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.2"
+        },
+        "Design_C_24mm": {
+            "star_size": "24",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "2.88",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.2"
+        },
+        "Design_C_28mm": {
+            "star_size": "28",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "3.36",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.2"
+        },
+        "Design_C_32mm": {
+            "star_size": "32",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "3.84",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.2"
+        },
+        "Design_C_38mm": {
+            "star_size": "38",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "4.55",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.2"
+        },
+        "Design_C_46mm": {
+            "star_size": "46",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "5.52",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.2"
+        },
+        "Design_C_60mm": {
+            "star_size": "60",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "7.19",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.2"
+        },
+        "Design_C_80mm": {
+            "star_size": "80",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "9.6",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.2"
+        },
+        "Design_C_100mm": {
+            "star_size": "100",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "12",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.2"
+        },
+        "Design_C_150mm": {
+            "star_size": "150",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "18",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.2"
+        },
+        "Design_C_200mm": {
+            "star_size": "200",
+            "inner_radius_percent": "45",
+            "top_surface_style": "1",
+            "apex_height": "24",
+            "top_edge_fillet_radius": "0",
+            "corner_rounding_percent": "0",
+            "wall_thickness": "0.2"
+        },
+        "Design_D_3mm": {
+            "star_size": "3",
+            "inner_radius_percent": "50",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0.24",
+            "corner_rounding_percent": "8",
+            "wall_thickness": "0.36"
+        },
+        "Design_D_4mm": {
+            "star_size": "4",
+            "inner_radius_percent": "50",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0.32",
+            "corner_rounding_percent": "8",
+            "wall_thickness": "0.48"
+        },
+        "Design_D_5mm": {
+            "star_size": "5",
+            "inner_radius_percent": "50",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0.4",
+            "corner_rounding_percent": "8",
+            "wall_thickness": "0.6"
+        },
+        "Design_D_6mm": {
+            "star_size": "6",
+            "inner_radius_percent": "50",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0.48",
+            "corner_rounding_percent": "8",
+            "wall_thickness": "0.72"
+        },
+        "Design_D_7mm": {
+            "star_size": "7",
+            "inner_radius_percent": "50",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0.56",
+            "corner_rounding_percent": "8",
+            "wall_thickness": "0.84"
+        },
+        "Design_D_8mm": {
+            "star_size": "8",
+            "inner_radius_percent": "50",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0.64",
+            "corner_rounding_percent": "8",
+            "wall_thickness": "0.96"
+        },
+        "Design_D_9mm": {
+            "star_size": "9",
+            "inner_radius_percent": "50",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0.72",
+            "corner_rounding_percent": "8",
+            "wall_thickness": "1.08"
+        },
+        "Design_D_10mm": {
+            "star_size": "10",
+            "inner_radius_percent": "50",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0.8",
+            "corner_rounding_percent": "8",
+            "wall_thickness": "1.2"
+        },
+        "Design_D_11mm": {
+            "star_size": "11",
+            "inner_radius_percent": "50",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0.88",
+            "corner_rounding_percent": "8",
+            "wall_thickness": "1.31"
+        },
+        "Design_D_12mm": {
+            "star_size": "12",
+            "inner_radius_percent": "50",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "0.96",
+            "corner_rounding_percent": "8",
+            "wall_thickness": "1.44"
+        },
+        "Design_D_14mm": {
+            "star_size": "14",
+            "inner_radius_percent": "50",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "1.12",
+            "corner_rounding_percent": "8",
+            "wall_thickness": "1.68"
+        },
+        "Design_D_16mm": {
+            "star_size": "16",
+            "inner_radius_percent": "50",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "1.28",
+            "corner_rounding_percent": "8",
+            "wall_thickness": "1.92"
+        },
+        "Design_D_18mm": {
+            "star_size": "18",
+            "inner_radius_percent": "50",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "1.44",
+            "corner_rounding_percent": "8",
+            "wall_thickness": "2.16"
+        },
+        "Design_D_20mm": {
+            "star_size": "20",
+            "inner_radius_percent": "50",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "1.6",
+            "corner_rounding_percent": "8",
+            "wall_thickness": "2.4"
+        },
+        "Design_D_24mm": {
+            "star_size": "24",
+            "inner_radius_percent": "50",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "1.92",
+            "corner_rounding_percent": "8",
+            "wall_thickness": "2.88"
+        },
+        "Design_D_28mm": {
+            "star_size": "28",
+            "inner_radius_percent": "50",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "2.24",
+            "corner_rounding_percent": "8",
+            "wall_thickness": "3.36"
+        },
+        "Design_D_32mm": {
+            "star_size": "32",
+            "inner_radius_percent": "50",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "2.56",
+            "corner_rounding_percent": "8",
+            "wall_thickness": "3.84"
+        },
+        "Design_D_38mm": {
+            "star_size": "38",
+            "inner_radius_percent": "50",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "3.04",
+            "corner_rounding_percent": "8",
+            "wall_thickness": "4.55"
+        },
+        "Design_D_46mm": {
+            "star_size": "46",
+            "inner_radius_percent": "50",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "3.68",
+            "corner_rounding_percent": "8",
+            "wall_thickness": "5.52"
+        },
+        "Design_D_60mm": {
+            "star_size": "60",
+            "inner_radius_percent": "50",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "4.8",
+            "corner_rounding_percent": "8",
+            "wall_thickness": "7.19"
+        },
+        "Design_D_80mm": {
+            "star_size": "80",
+            "inner_radius_percent": "50",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "6.4",
+            "corner_rounding_percent": "8",
+            "wall_thickness": "9.6"
+        },
+        "Design_D_100mm": {
+            "star_size": "100",
+            "inner_radius_percent": "50",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "8",
+            "corner_rounding_percent": "8",
+            "wall_thickness": "12"
+        },
+        "Design_D_150mm": {
+            "star_size": "150",
+            "inner_radius_percent": "50",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "12",
+            "corner_rounding_percent": "8",
+            "wall_thickness": "18"
+        },
+        "Design_D_200mm": {
+            "star_size": "200",
+            "inner_radius_percent": "50",
+            "top_surface_style": "2",
+            "apex_height": "0",
+            "top_edge_fillet_radius": "16",
+            "corner_rounding_percent": "8",
+            "wall_thickness": "24"
+        }
+    }
+}

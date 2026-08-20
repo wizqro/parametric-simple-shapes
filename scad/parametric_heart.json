@@ -1,0 +1,13 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "heart_size": "100",
+            "surface_thickness": "0",
+            "tip_fillet_percent": "2.5",
+            "top_edge_fillet_radius": "4",
+            "top_surface_style": "2",
+            "wall_thickness": "16"
+        }
+    }
+}

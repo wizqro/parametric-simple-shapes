@@ -1,0 +1,52 @@
+# Generated models and previews
+output/
+*.stl
+
+# Generated images, camera RAW files, and image-editing sources
+*.[pP][nN][gG]
+*.[jJ][pP][gG]
+*.[jJ][pP][eE][gG]
+*.[gG][iI][fF]
+*.[wW][eE][bB][pP]
+*.[bB][mM][pP]
+*.[tT][iI][fF]
+*.[tT][iI][fF][fF]
+*.[aA][rR][wW]
+*.[nN][eE][fF]
+*.[cC][rR]2
+*.[dD][nN][gG]
+*.[pP][sS][dD]
+*.[xX][mM][pP]
+*.[aA][cC][rR]
+
+# Python virtual environments and bytecode
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Temporary and log files
+*.log
+*.tmp
+*.temp
+~$*
+
+# OS and editor metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.code-workspace
+
+# Local environment files and secrets
+.env
+.env.*
+!.env.example

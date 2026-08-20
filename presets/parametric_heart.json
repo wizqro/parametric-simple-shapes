@@ -1,0 +1,645 @@
+﻿{
+    "fileFormatVersion":  "1",
+    "parameterSets":  {
+                          "Demo_Domed_50mm":  {
+                                                     "heart_size":  "50",
+                                                     "top_surface_style":  "1",
+                                                     "surface_thickness":  "3",
+                                                     "top_edge_fillet_radius":  "3",
+                                                     "tip_fillet_percent":  "2.5",
+                                                     "wall_thickness":  "5"
+                                                 },
+                          "Demo_Top_Edge_Fillet_50mm":  {
+                                                               "heart_size":  "50",
+                                                               "top_surface_style":  "2",
+                                                               "surface_thickness":  "3",
+                                                               "top_edge_fillet_radius":  "3",
+                                                               "tip_fillet_percent":  "2.5",
+                                                               "wall_thickness":  "5"
+                                                           },
+                          "Design_A_3mm":  {
+                                               "heart_size":  "3",
+                                               "surface_thickness":  "0",
+                                               "tip_fillet_percent":  "0",
+                                               "wall_thickness":  "0.36"
+                                           },
+                          "Design_A_4mm":  {
+                                               "heart_size":  "4",
+                                               "surface_thickness":  "0",
+                                               "tip_fillet_percent":  "0",
+                                               "wall_thickness":  "0.48"
+                                           },
+                          "Design_A_5mm":  {
+                                               "heart_size":  "5",
+                                               "surface_thickness":  "0",
+                                               "tip_fillet_percent":  "0",
+                                               "wall_thickness":  "0.6"
+                                           },
+                          "Design_A_6mm":  {
+                                               "heart_size":  "6",
+                                               "surface_thickness":  "0",
+                                               "tip_fillet_percent":  "0",
+                                               "wall_thickness":  "0.72"
+                                           },
+                          "Design_A_7mm":  {
+                                               "heart_size":  "7",
+                                               "surface_thickness":  "0",
+                                               "tip_fillet_percent":  "0",
+                                               "wall_thickness":  "0.84"
+                                           },
+                          "Design_A_8mm":  {
+                                               "heart_size":  "8",
+                                               "surface_thickness":  "0",
+                                               "tip_fillet_percent":  "0",
+                                               "wall_thickness":  "0.96"
+                                           },
+                          "Design_A_9mm":  {
+                                               "heart_size":  "9",
+                                               "surface_thickness":  "0",
+                                               "tip_fillet_percent":  "0",
+                                               "wall_thickness":  "1.08"
+                                           },
+                          "Design_A_10mm":  {
+                                                "heart_size":  "10",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "1.2"
+                                            },
+                          "Design_A_11mm":  {
+                                                "heart_size":  "11",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "1.31"
+                                            },
+                          "Design_A_12mm":  {
+                                                "heart_size":  "12",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "1.44"
+                                            },
+                          "Design_A_14mm":  {
+                                                "heart_size":  "14",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "1.68"
+                                            },
+                          "Design_A_16mm":  {
+                                                "heart_size":  "16",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "1.92"
+                                            },
+                          "Design_A_18mm":  {
+                                                "heart_size":  "18",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "2.16"
+                                            },
+                          "Design_A_20mm":  {
+                                                "heart_size":  "20",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "2.4"
+                                            },
+                          "Design_A_24mm":  {
+                                                "heart_size":  "24",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "2.88"
+                                            },
+                          "Design_A_28mm":  {
+                                                "heart_size":  "28",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "3.36"
+                                            },
+                          "Design_A_32mm":  {
+                                                "heart_size":  "32",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "3.84"
+                                            },
+                          "Design_A_38mm":  {
+                                                "heart_size":  "38",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "4.55"
+                                            },
+                          "Design_A_46mm":  {
+                                                "heart_size":  "46",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "5.52"
+                                            },
+                          "Design_A_60mm":  {
+                                                "heart_size":  "60",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "7.19"
+                                            },
+                          "Design_A_80mm":  {
+                                                "heart_size":  "80",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "9.6"
+                                            },
+                          "Design_A_100mm":  {
+                                                 "heart_size":  "100",
+                                                 "surface_thickness":  "0",
+                                                 "tip_fillet_percent":  "0",
+                                                 "wall_thickness":  "12"
+                                             },
+                          "Design_A_150mm":  {
+                                                 "heart_size":  "150",
+                                                 "surface_thickness":  "0",
+                                                 "tip_fillet_percent":  "0",
+                                                 "wall_thickness":  "18"
+                                             },
+                          "Design_A_200mm":  {
+                                                 "heart_size":  "200",
+                                                 "surface_thickness":  "0",
+                                                 "tip_fillet_percent":  "0",
+                                                 "wall_thickness":  "24"
+                                             },
+                          "Design_D_3mm":  {
+                                               "heart_size":  "3",
+                                               "top_surface_style":  "2",
+                                               "surface_thickness":  "0",
+                                               "top_edge_fillet_radius":  "0.12",
+                                               "tip_fillet_percent":  "0",
+                                               "wall_thickness":  "0.36"
+                                           },
+                          "Design_D_4mm":  {
+                                               "heart_size":  "4",
+                                               "top_surface_style":  "2",
+                                               "surface_thickness":  "0",
+                                               "top_edge_fillet_radius":  "0.16",
+                                               "tip_fillet_percent":  "0",
+                                               "wall_thickness":  "0.48"
+                                           },
+                          "Design_D_5mm":  {
+                                               "heart_size":  "5",
+                                               "top_surface_style":  "2",
+                                               "surface_thickness":  "0",
+                                               "top_edge_fillet_radius":  "0.2",
+                                               "tip_fillet_percent":  "0",
+                                               "wall_thickness":  "0.6"
+                                           },
+                          "Design_D_6mm":  {
+                                               "heart_size":  "6",
+                                               "top_surface_style":  "2",
+                                               "surface_thickness":  "0",
+                                               "top_edge_fillet_radius":  "0.24",
+                                               "tip_fillet_percent":  "0",
+                                               "wall_thickness":  "0.72"
+                                           },
+                          "Design_D_7mm":  {
+                                               "heart_size":  "7",
+                                               "top_surface_style":  "2",
+                                               "surface_thickness":  "0",
+                                               "top_edge_fillet_radius":  "0.28",
+                                               "tip_fillet_percent":  "0",
+                                               "wall_thickness":  "0.84"
+                                           },
+                          "Design_D_8mm":  {
+                                               "heart_size":  "8",
+                                               "top_surface_style":  "2",
+                                               "surface_thickness":  "0",
+                                               "top_edge_fillet_radius":  "0.32",
+                                               "tip_fillet_percent":  "0",
+                                               "wall_thickness":  "0.96"
+                                           },
+                          "Design_D_9mm":  {
+                                               "heart_size":  "9",
+                                               "top_surface_style":  "2",
+                                               "surface_thickness":  "0",
+                                               "top_edge_fillet_radius":  "0.36",
+                                               "tip_fillet_percent":  "0",
+                                               "wall_thickness":  "1.08"
+                                           },
+                          "Design_D_10mm":  {
+                                                "heart_size":  "10",
+                                                "top_surface_style":  "2",
+                                                "surface_thickness":  "0",
+                                                "top_edge_fillet_radius":  "0.4",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "1.2"
+                                            },
+                          "Design_D_11mm":  {
+                                                "heart_size":  "11",
+                                                "top_surface_style":  "2",
+                                                "surface_thickness":  "0",
+                                                "top_edge_fillet_radius":  "0.44",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "1.31"
+                                            },
+                          "Design_D_12mm":  {
+                                                "heart_size":  "12",
+                                                "top_surface_style":  "2",
+                                                "surface_thickness":  "0",
+                                                "top_edge_fillet_radius":  "0.48",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "1.44"
+                                            },
+                          "Design_D_14mm":  {
+                                                "heart_size":  "14",
+                                                "top_surface_style":  "2",
+                                                "surface_thickness":  "0",
+                                                "top_edge_fillet_radius":  "0.56",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "1.68"
+                                            },
+                          "Design_D_16mm":  {
+                                                "heart_size":  "16",
+                                                "top_surface_style":  "2",
+                                                "surface_thickness":  "0",
+                                                "top_edge_fillet_radius":  "0.64",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "1.92"
+                                            },
+                          "Design_D_18mm":  {
+                                                "heart_size":  "18",
+                                                "top_surface_style":  "2",
+                                                "surface_thickness":  "0",
+                                                "top_edge_fillet_radius":  "0.72",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "2.16"
+                                            },
+                          "Design_D_20mm":  {
+                                                "heart_size":  "20",
+                                                "top_surface_style":  "2",
+                                                "surface_thickness":  "0",
+                                                "top_edge_fillet_radius":  "0.8",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "2.4"
+                                            },
+                          "Design_D_24mm":  {
+                                                "heart_size":  "24",
+                                                "top_surface_style":  "2",
+                                                "surface_thickness":  "0",
+                                                "top_edge_fillet_radius":  "0.96",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "2.88"
+                                            },
+                          "Design_D_28mm":  {
+                                                "heart_size":  "28",
+                                                "top_surface_style":  "2",
+                                                "surface_thickness":  "0",
+                                                "top_edge_fillet_radius":  "1.12",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "3.36"
+                                            },
+                          "Design_D_32mm":  {
+                                                "heart_size":  "32",
+                                                "top_surface_style":  "2",
+                                                "surface_thickness":  "0",
+                                                "top_edge_fillet_radius":  "1.28",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "3.84"
+                                            },
+                          "Design_D_38mm":  {
+                                                "heart_size":  "38",
+                                                "top_surface_style":  "2",
+                                                "surface_thickness":  "0",
+                                                "top_edge_fillet_radius":  "1.52",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "4.55"
+                                            },
+                          "Design_D_46mm":  {
+                                                "heart_size":  "46",
+                                                "top_surface_style":  "2",
+                                                "surface_thickness":  "0",
+                                                "top_edge_fillet_radius":  "1.84",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "5.52"
+                                            },
+                          "Design_D_60mm":  {
+                                                "heart_size":  "60",
+                                                "top_surface_style":  "2",
+                                                "surface_thickness":  "0",
+                                                "top_edge_fillet_radius":  "2.4",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "7.19"
+                                            },
+                          "Design_D_80mm":  {
+                                                "heart_size":  "80",
+                                                "top_surface_style":  "2",
+                                                "surface_thickness":  "0",
+                                                "top_edge_fillet_radius":  "3.2",
+                                                "tip_fillet_percent":  "0",
+                                                "wall_thickness":  "9.6"
+                                            },
+                          "Design_D_100mm":  {
+                                                 "heart_size":  "100",
+                                                 "top_surface_style":  "2",
+                                                 "surface_thickness":  "0",
+                                                 "top_edge_fillet_radius":  "4",
+                                                 "tip_fillet_percent":  "0",
+                                                 "wall_thickness":  "12"
+                                             },
+                          "Design_D_150mm":  {
+                                                 "heart_size":  "150",
+                                                 "top_surface_style":  "2",
+                                                 "surface_thickness":  "0",
+                                                 "top_edge_fillet_radius":  "6",
+                                                 "tip_fillet_percent":  "0",
+                                                 "wall_thickness":  "18"
+                                             },
+                          "Design_D_200mm":  {
+                                                 "heart_size":  "200",
+                                                 "top_surface_style":  "2",
+                                                 "surface_thickness":  "0",
+                                                 "top_edge_fillet_radius":  "8",
+                                                 "tip_fillet_percent":  "0",
+                                                 "wall_thickness":  "24"
+                                             },
+                          "Design_B_3mm":  {
+                                               "heart_size":  "3",
+                                               "surface_thickness":  "0",
+                                               "tip_fillet_percent":  "19.900000000000002",
+                                               "wall_thickness":  "0.36"
+                                           },
+                          "Design_B_4mm":  {
+                                               "heart_size":  "4",
+                                               "surface_thickness":  "0",
+                                               "tip_fillet_percent":  "19.900000000000002",
+                                               "wall_thickness":  "0.48"
+                                           },
+                          "Design_B_5mm":  {
+                                               "heart_size":  "5",
+                                               "surface_thickness":  "0",
+                                               "tip_fillet_percent":  "19.900000000000002",
+                                               "wall_thickness":  "0.6"
+                                           },
+                          "Design_B_6mm":  {
+                                               "heart_size":  "6",
+                                               "surface_thickness":  "0",
+                                               "tip_fillet_percent":  "19.900000000000002",
+                                               "wall_thickness":  "0.72"
+                                           },
+                          "Design_B_7mm":  {
+                                               "heart_size":  "7",
+                                               "surface_thickness":  "0",
+                                               "tip_fillet_percent":  "19.900000000000002",
+                                               "wall_thickness":  "0.84"
+                                           },
+                          "Design_B_8mm":  {
+                                               "heart_size":  "8",
+                                               "surface_thickness":  "0",
+                                               "tip_fillet_percent":  "19.900000000000002",
+                                               "wall_thickness":  "0.96"
+                                           },
+                          "Design_B_9mm":  {
+                                               "heart_size":  "9",
+                                               "surface_thickness":  "0",
+                                               "tip_fillet_percent":  "19.900000000000002",
+                                               "wall_thickness":  "1.08"
+                                           },
+                          "Design_B_10mm":  {
+                                                "heart_size":  "10",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "19.900000000000002",
+                                                "wall_thickness":  "1.2"
+                                            },
+                          "Design_B_11mm":  {
+                                                "heart_size":  "11",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "19.900000000000002",
+                                                "wall_thickness":  "1.31"
+                                            },
+                          "Design_B_12mm":  {
+                                                "heart_size":  "12",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "19.900000000000002",
+                                                "wall_thickness":  "1.44"
+                                            },
+                          "Design_B_14mm":  {
+                                                "heart_size":  "14",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "19.900000000000002",
+                                                "wall_thickness":  "1.68"
+                                            },
+                          "Design_B_16mm":  {
+                                                "heart_size":  "16",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "19.900000000000002",
+                                                "wall_thickness":  "1.92"
+                                            },
+                          "Design_B_18mm":  {
+                                                "heart_size":  "18",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "19.900000000000002",
+                                                "wall_thickness":  "2.16"
+                                            },
+                          "Design_B_20mm":  {
+                                                "heart_size":  "20",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "19.900000000000002",
+                                                "wall_thickness":  "2.4"
+                                            },
+                          "Design_B_24mm":  {
+                                                "heart_size":  "24",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "19.900000000000002",
+                                                "wall_thickness":  "2.88"
+                                            },
+                          "Design_B_28mm":  {
+                                                "heart_size":  "28",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "19.900000000000002",
+                                                "wall_thickness":  "3.36"
+                                            },
+                          "Design_B_32mm":  {
+                                                "heart_size":  "32",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "19.900000000000002",
+                                                "wall_thickness":  "3.84"
+                                            },
+                          "Design_B_38mm":  {
+                                                "heart_size":  "38",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "19.900000000000002",
+                                                "wall_thickness":  "4.55"
+                                            },
+                          "Design_B_46mm":  {
+                                                "heart_size":  "46",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "19.900000000000002",
+                                                "wall_thickness":  "5.52"
+                                            },
+                          "Design_B_60mm":  {
+                                                "heart_size":  "60",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "19.900000000000002",
+                                                "wall_thickness":  "7.19"
+                                            },
+                          "Design_B_80mm":  {
+                                                "heart_size":  "80",
+                                                "surface_thickness":  "0",
+                                                "tip_fillet_percent":  "19.900000000000002",
+                                                "wall_thickness":  "9.6"
+                                            },
+                          "Design_B_100mm":  {
+                                                 "heart_size":  "100",
+                                                 "surface_thickness":  "0",
+                                                 "tip_fillet_percent":  "19.900000000000002",
+                                                 "wall_thickness":  "12"
+                                             },
+                          "Design_B_150mm":  {
+                                                 "heart_size":  "150",
+                                                 "surface_thickness":  "0",
+                                                 "tip_fillet_percent":  "19.900000000000002",
+                                                 "wall_thickness":  "18"
+                                             },
+                          "Design_B_200mm":  {
+                                                 "heart_size":  "200",
+                                                 "surface_thickness":  "0",
+                                                 "tip_fillet_percent":  "19.900000000000002",
+                                                 "wall_thickness":  "24"
+                                             },
+                          "Design_C_3mm":  {
+                                               "heart_size":  "3",
+                                               "surface_thickness":  "0.36",
+                                               "tip_fillet_percent":  "8.4000000000000004",
+                                               "wall_thickness":  "0.20000000000000001"
+                                           },
+                          "Design_C_4mm":  {
+                                               "heart_size":  "4",
+                                               "surface_thickness":  "0.48",
+                                               "tip_fillet_percent":  "8.4000000000000004",
+                                               "wall_thickness":  "0.20000000000000001"
+                                           },
+                          "Design_C_5mm":  {
+                                               "heart_size":  "5",
+                                               "surface_thickness":  "0.6",
+                                               "tip_fillet_percent":  "8.4000000000000004",
+                                               "wall_thickness":  "0.20000000000000001"
+                                           },
+                          "Design_C_6mm":  {
+                                               "heart_size":  "6",
+                                               "surface_thickness":  "0.72",
+                                               "tip_fillet_percent":  "8.4000000000000004",
+                                               "wall_thickness":  "0.20000000000000001"
+                                           },
+                          "Design_C_7mm":  {
+                                               "heart_size":  "7",
+                                               "surface_thickness":  "0.84",
+                                               "tip_fillet_percent":  "8.4000000000000004",
+                                               "wall_thickness":  "0.20000000000000001"
+                                           },
+                          "Design_C_8mm":  {
+                                               "heart_size":  "8",
+                                               "surface_thickness":  "0.96",
+                                               "tip_fillet_percent":  "8.4000000000000004",
+                                               "wall_thickness":  "0.20000000000000001"
+                                           },
+                          "Design_C_9mm":  {
+                                               "heart_size":  "9",
+                                               "surface_thickness":  "1.08",
+                                               "tip_fillet_percent":  "8.4000000000000004",
+                                               "wall_thickness":  "0.20000000000000001"
+                                           },
+                          "Design_C_10mm":  {
+                                                "heart_size":  "10",
+                                                "surface_thickness":  "1.2",
+                                                "tip_fillet_percent":  "8.4000000000000004",
+                                                "wall_thickness":  "0.20000000000000001"
+                                            },
+                          "Design_C_11mm":  {
+                                                "heart_size":  "11",
+                                                "surface_thickness":  "1.31",
+                                                "tip_fillet_percent":  "8.4000000000000004",
+                                                "wall_thickness":  "0.20000000000000001"
+                                            },
+                          "Design_C_12mm":  {
+                                                "heart_size":  "12",
+                                                "surface_thickness":  "1.44",
+                                                "tip_fillet_percent":  "8.4000000000000004",
+                                                "wall_thickness":  "0.20000000000000001"
+                                            },
+                          "Design_C_14mm":  {
+                                                "heart_size":  "14",
+                                                "surface_thickness":  "1.68",
+                                                "tip_fillet_percent":  "8.4000000000000004",
+                                                "wall_thickness":  "0.20000000000000001"
+                                            },
+                          "Design_C_16mm":  {
+                                                "heart_size":  "16",
+                                                "surface_thickness":  "1.92",
+                                                "tip_fillet_percent":  "8.4000000000000004",
+                                                "wall_thickness":  "0.20000000000000001"
+                                            },
+                          "Design_C_18mm":  {
+                                                "heart_size":  "18",
+                                                "surface_thickness":  "2.16",
+                                                "tip_fillet_percent":  "8.4000000000000004",
+                                                "wall_thickness":  "0.20000000000000001"
+                                            },
+                          "Design_C_20mm":  {
+                                                "heart_size":  "20",
+                                                "surface_thickness":  "2.4",
+                                                "tip_fillet_percent":  "8.4000000000000004",
+                                                "wall_thickness":  "0.20000000000000001"
+                                            },
+                          "Design_C_24mm":  {
+                                                "heart_size":  "24",
+                                                "surface_thickness":  "2.88",
+                                                "tip_fillet_percent":  "8.4000000000000004",
+                                                "wall_thickness":  "0.20000000000000001"
+                                            },
+                          "Design_C_28mm":  {
+                                                "heart_size":  "28",
+                                                "surface_thickness":  "3.36",
+                                                "tip_fillet_percent":  "8.4000000000000004",
+                                                "wall_thickness":  "0.20000000000000001"
+                                            },
+                          "Design_C_32mm":  {
+                                                "heart_size":  "32",
+                                                "surface_thickness":  "3.84",
+                                                "tip_fillet_percent":  "8.4000000000000004",
+                                                "wall_thickness":  "0.20000000000000001"
+                                            },
+                          "Design_C_38mm":  {
+                                                "heart_size":  "38",
+                                                "surface_thickness":  "4.55",
+                                                "tip_fillet_percent":  "8.4000000000000004",
+                                                "wall_thickness":  "0.20000000000000001"
+                                            },
+                          "Design_C_46mm":  {
+                                                "heart_size":  "46",
+                                                "surface_thickness":  "5.52",
+                                                "tip_fillet_percent":  "8.4000000000000004",
+                                                "wall_thickness":  "0.20000000000000001"
+                                            },
+                          "Design_C_60mm":  {
+                                                "heart_size":  "60",
+                                                "surface_thickness":  "7.19",
+                                                "tip_fillet_percent":  "8.4000000000000004",
+                                                "wall_thickness":  "0.20000000000000001"
+                                            },
+                          "Design_C_80mm":  {
+                                                "heart_size":  "80",
+                                                "surface_thickness":  "9.6",
+                                                "tip_fillet_percent":  "8.4000000000000004",
+                                                "wall_thickness":  "0.20000000000000001"
+                                            },
+                          "Design_C_100mm":  {
+                                                 "heart_size":  "100",
+                                                 "surface_thickness":  "12",
+                                                 "tip_fillet_percent":  "8.4000000000000004",
+                                                 "wall_thickness":  "0.20000000000000001"
+                                             },
+                          "Design_C_150mm":  {
+                                                 "heart_size":  "150",
+                                                 "surface_thickness":  "18",
+                                                 "tip_fillet_percent":  "8.4000000000000004",
+                                                 "wall_thickness":  "0.20000000000000001"
+                                             },
+                          "Design_C_200mm":  {
+                                                 "heart_size":  "200",
+                                                 "surface_thickness":  "24",
+                                                 "tip_fillet_percent":  "8.4000000000000004",
+                                                 "wall_thickness":  "0.20000000000000001"
+                                             }
+                      }
+}
