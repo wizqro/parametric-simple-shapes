@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "openscad": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "openscad-mcp-server"
+      ],
+      "env": {}
+    }
+  }
+}
