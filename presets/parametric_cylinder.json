@@ -6,6 +6,8 @@
             "model_height": "20",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -14,14 +16,28 @@
             "model_height": "20",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "4",
-            "bottom_edge_radius": "4"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "8",
+            "bottom_edge_radius": "8"
+        },
+        "Demo_Solid_Domed_50mm": {
+            "outer_diameter": "50",
+            "model_height": "20",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "12",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
         },
         "Demo_Hollow_Flat_50mm": {
             "outer_diameter": "50",
             "model_height": "20",
             "hollow": "true",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -29,15 +45,19 @@
             "outer_diameter": "50",
             "model_height": "20",
             "hollow": "true",
-            "wall_thickness": "3",
-            "top_edge_radius": "1.35",
-            "bottom_edge_radius": "1.35"
+            "wall_thickness": "7",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "3.4",
+            "bottom_edge_radius": "3.4"
         },
         "Design_A_3mm": {
             "outer_diameter": "3",
             "model_height": "0.36",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -46,6 +66,8 @@
             "model_height": "0.48",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -54,6 +76,8 @@
             "model_height": "0.6",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -62,6 +86,8 @@
             "model_height": "0.72",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -70,6 +96,8 @@
             "model_height": "0.84",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -78,6 +106,8 @@
             "model_height": "0.96",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -86,6 +116,8 @@
             "model_height": "1.08",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -94,6 +126,8 @@
             "model_height": "1.2",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -102,6 +136,8 @@
             "model_height": "1.32",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -110,6 +146,8 @@
             "model_height": "1.44",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -118,6 +156,8 @@
             "model_height": "1.68",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -126,6 +166,8 @@
             "model_height": "1.92",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -134,6 +176,8 @@
             "model_height": "2.16",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -142,6 +186,8 @@
             "model_height": "2.4",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -150,6 +196,8 @@
             "model_height": "2.88",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -158,6 +206,8 @@
             "model_height": "3.36",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -166,6 +216,8 @@
             "model_height": "3.84",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -174,6 +226,8 @@
             "model_height": "4.56",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -182,6 +236,8 @@
             "model_height": "5.52",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -190,6 +246,8 @@
             "model_height": "7.2",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -198,6 +256,8 @@
             "model_height": "9.6",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -206,6 +266,8 @@
             "model_height": "12",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -214,6 +276,8 @@
             "model_height": "18",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -222,6 +286,8 @@
             "model_height": "24",
             "hollow": "false",
             "wall_thickness": "3",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -230,198 +296,248 @@
             "model_height": "0.36",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "0.12",
-            "bottom_edge_radius": "0.12"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "0.3",
+            "bottom_edge_radius": "0.3"
         },
         "Design_B_4mm": {
             "outer_diameter": "4",
             "model_height": "0.48",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "0.16",
-            "bottom_edge_radius": "0.16"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "0.4",
+            "bottom_edge_radius": "0.4"
         },
         "Design_B_5mm": {
             "outer_diameter": "5",
             "model_height": "0.6",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "0.2",
-            "bottom_edge_radius": "0.2"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "0.5",
+            "bottom_edge_radius": "0.5"
         },
         "Design_B_6mm": {
             "outer_diameter": "6",
             "model_height": "0.72",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "0.24",
-            "bottom_edge_radius": "0.24"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "0.6",
+            "bottom_edge_radius": "0.6"
         },
         "Design_B_7mm": {
             "outer_diameter": "7",
             "model_height": "0.84",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "0.28",
-            "bottom_edge_radius": "0.28"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "0.7",
+            "bottom_edge_radius": "0.7"
         },
         "Design_B_8mm": {
             "outer_diameter": "8",
             "model_height": "0.96",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "0.32",
-            "bottom_edge_radius": "0.32"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "0.8",
+            "bottom_edge_radius": "0.8"
         },
         "Design_B_9mm": {
             "outer_diameter": "9",
             "model_height": "1.08",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "0.36",
-            "bottom_edge_radius": "0.36"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "0.9",
+            "bottom_edge_radius": "0.9"
         },
         "Design_B_10mm": {
             "outer_diameter": "10",
             "model_height": "1.2",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "0.4",
-            "bottom_edge_radius": "0.4"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "1",
+            "bottom_edge_radius": "1"
         },
         "Design_B_11mm": {
             "outer_diameter": "11",
             "model_height": "1.32",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "0.44",
-            "bottom_edge_radius": "0.44"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "1.1",
+            "bottom_edge_radius": "1.1"
         },
         "Design_B_12mm": {
             "outer_diameter": "12",
             "model_height": "1.44",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "0.48",
-            "bottom_edge_radius": "0.48"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "1.2",
+            "bottom_edge_radius": "1.2"
         },
         "Design_B_14mm": {
             "outer_diameter": "14",
             "model_height": "1.68",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "0.56",
-            "bottom_edge_radius": "0.56"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "1.4",
+            "bottom_edge_radius": "1.4"
         },
         "Design_B_16mm": {
             "outer_diameter": "16",
             "model_height": "1.92",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "0.64",
-            "bottom_edge_radius": "0.64"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "1.6",
+            "bottom_edge_radius": "1.6"
         },
         "Design_B_18mm": {
             "outer_diameter": "18",
             "model_height": "2.16",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "0.72",
-            "bottom_edge_radius": "0.72"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "1.8",
+            "bottom_edge_radius": "1.8"
         },
         "Design_B_20mm": {
             "outer_diameter": "20",
             "model_height": "2.4",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "0.8",
-            "bottom_edge_radius": "0.8"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "2",
+            "bottom_edge_radius": "2"
         },
         "Design_B_24mm": {
             "outer_diameter": "24",
             "model_height": "2.88",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "0.96",
-            "bottom_edge_radius": "0.96"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "2.4",
+            "bottom_edge_radius": "2.4"
         },
         "Design_B_28mm": {
             "outer_diameter": "28",
             "model_height": "3.36",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "1.12",
-            "bottom_edge_radius": "1.12"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "2.8",
+            "bottom_edge_radius": "2.8"
         },
         "Design_B_32mm": {
             "outer_diameter": "32",
             "model_height": "3.84",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "1.28",
-            "bottom_edge_radius": "1.28"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "3.2",
+            "bottom_edge_radius": "3.2"
         },
         "Design_B_38mm": {
             "outer_diameter": "38",
             "model_height": "4.56",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "1.52",
-            "bottom_edge_radius": "1.52"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "3.8",
+            "bottom_edge_radius": "3.8"
         },
         "Design_B_46mm": {
             "outer_diameter": "46",
             "model_height": "5.52",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "1.84",
-            "bottom_edge_radius": "1.84"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "4.6",
+            "bottom_edge_radius": "4.6"
         },
         "Design_B_60mm": {
             "outer_diameter": "60",
             "model_height": "7.2",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "2.4",
-            "bottom_edge_radius": "2.4"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "6",
+            "bottom_edge_radius": "6"
         },
         "Design_B_80mm": {
             "outer_diameter": "80",
             "model_height": "9.6",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "3.2",
-            "bottom_edge_radius": "3.2"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "8",
+            "bottom_edge_radius": "8"
         },
         "Design_B_100mm": {
             "outer_diameter": "100",
             "model_height": "12",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "4",
-            "bottom_edge_radius": "4"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "10",
+            "bottom_edge_radius": "10"
         },
         "Design_B_150mm": {
             "outer_diameter": "150",
             "model_height": "18",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "6",
-            "bottom_edge_radius": "6"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "15",
+            "bottom_edge_radius": "15"
         },
         "Design_B_200mm": {
             "outer_diameter": "200",
             "model_height": "24",
             "hollow": "false",
             "wall_thickness": "3",
-            "top_edge_radius": "8",
-            "bottom_edge_radius": "8"
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "20",
+            "bottom_edge_radius": "20"
         },
         "Design_C_3mm": {
             "outer_diameter": "3",
             "model_height": "1.5",
             "hollow": "true",
             "wall_thickness": "0.4",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -430,6 +546,8 @@
             "model_height": "2",
             "hollow": "true",
             "wall_thickness": "0.4",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -438,6 +556,8 @@
             "model_height": "2.5",
             "hollow": "true",
             "wall_thickness": "0.5",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -446,6 +566,8 @@
             "model_height": "3",
             "hollow": "true",
             "wall_thickness": "0.6",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -454,6 +576,8 @@
             "model_height": "3.5",
             "hollow": "true",
             "wall_thickness": "0.7",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -462,6 +586,8 @@
             "model_height": "4",
             "hollow": "true",
             "wall_thickness": "0.8",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -470,6 +596,8 @@
             "model_height": "4.5",
             "hollow": "true",
             "wall_thickness": "0.9",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -478,6 +606,8 @@
             "model_height": "5",
             "hollow": "true",
             "wall_thickness": "1",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -486,6 +616,8 @@
             "model_height": "5.5",
             "hollow": "true",
             "wall_thickness": "1.1",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -494,6 +626,8 @@
             "model_height": "6",
             "hollow": "true",
             "wall_thickness": "1.2",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -502,6 +636,8 @@
             "model_height": "7",
             "hollow": "true",
             "wall_thickness": "1.4",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -510,6 +646,8 @@
             "model_height": "8",
             "hollow": "true",
             "wall_thickness": "1.6",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -518,6 +656,8 @@
             "model_height": "9",
             "hollow": "true",
             "wall_thickness": "1.8",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -526,6 +666,8 @@
             "model_height": "10",
             "hollow": "true",
             "wall_thickness": "2",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -534,6 +676,8 @@
             "model_height": "12",
             "hollow": "true",
             "wall_thickness": "2.4",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -542,6 +686,8 @@
             "model_height": "14",
             "hollow": "true",
             "wall_thickness": "2.8",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -550,6 +696,8 @@
             "model_height": "16",
             "hollow": "true",
             "wall_thickness": "3.2",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -558,6 +706,8 @@
             "model_height": "19",
             "hollow": "true",
             "wall_thickness": "3.8",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -566,6 +716,8 @@
             "model_height": "23",
             "hollow": "true",
             "wall_thickness": "4.6",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -574,6 +726,8 @@
             "model_height": "30",
             "hollow": "true",
             "wall_thickness": "6",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -582,6 +736,8 @@
             "model_height": "40",
             "hollow": "true",
             "wall_thickness": "8",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -590,6 +746,8 @@
             "model_height": "50",
             "hollow": "true",
             "wall_thickness": "10",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -598,6 +756,8 @@
             "model_height": "75",
             "hollow": "true",
             "wall_thickness": "15",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -606,6 +766,8 @@
             "model_height": "100",
             "hollow": "true",
             "wall_thickness": "20",
+            "top_surface_style": "2",
+            "dome_height": "0",
             "top_edge_radius": "0",
             "bottom_edge_radius": "0"
         },
@@ -613,193 +775,481 @@
             "outer_diameter": "3",
             "model_height": "1.5",
             "hollow": "true",
-            "wall_thickness": "0.4",
-            "top_edge_radius": "0.18",
-            "bottom_edge_radius": "0.18"
+            "wall_thickness": "0.48",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "0.23",
+            "bottom_edge_radius": "0.23"
         },
         "Design_D_4mm": {
             "outer_diameter": "4",
             "model_height": "2",
             "hollow": "true",
-            "wall_thickness": "0.4",
-            "top_edge_radius": "0.18",
-            "bottom_edge_radius": "0.18"
+            "wall_thickness": "0.64",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "0.31",
+            "bottom_edge_radius": "0.31"
         },
         "Design_D_5mm": {
             "outer_diameter": "5",
             "model_height": "2.5",
             "hollow": "true",
-            "wall_thickness": "0.5",
-            "top_edge_radius": "0.22",
-            "bottom_edge_radius": "0.22"
+            "wall_thickness": "0.8",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "0.38",
+            "bottom_edge_radius": "0.38"
         },
         "Design_D_6mm": {
             "outer_diameter": "6",
             "model_height": "3",
             "hollow": "true",
-            "wall_thickness": "0.6",
-            "top_edge_radius": "0.27",
-            "bottom_edge_radius": "0.27"
+            "wall_thickness": "0.96",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "0.46",
+            "bottom_edge_radius": "0.46"
         },
         "Design_D_7mm": {
             "outer_diameter": "7",
             "model_height": "3.5",
             "hollow": "true",
-            "wall_thickness": "0.7",
-            "top_edge_radius": "0.32",
-            "bottom_edge_radius": "0.32"
+            "wall_thickness": "1.12",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "0.54",
+            "bottom_edge_radius": "0.54"
         },
         "Design_D_8mm": {
             "outer_diameter": "8",
             "model_height": "4",
             "hollow": "true",
-            "wall_thickness": "0.8",
-            "top_edge_radius": "0.36",
-            "bottom_edge_radius": "0.36"
+            "wall_thickness": "1.28",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "0.61",
+            "bottom_edge_radius": "0.61"
         },
         "Design_D_9mm": {
             "outer_diameter": "9",
             "model_height": "4.5",
             "hollow": "true",
-            "wall_thickness": "0.9",
-            "top_edge_radius": "0.4",
-            "bottom_edge_radius": "0.4"
+            "wall_thickness": "1.44",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "0.69",
+            "bottom_edge_radius": "0.69"
         },
         "Design_D_10mm": {
             "outer_diameter": "10",
             "model_height": "5",
             "hollow": "true",
-            "wall_thickness": "1",
-            "top_edge_radius": "0.45",
-            "bottom_edge_radius": "0.45"
+            "wall_thickness": "1.6",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "0.77",
+            "bottom_edge_radius": "0.77"
         },
         "Design_D_11mm": {
             "outer_diameter": "11",
             "model_height": "5.5",
             "hollow": "true",
-            "wall_thickness": "1.1",
-            "top_edge_radius": "0.5",
-            "bottom_edge_radius": "0.5"
+            "wall_thickness": "1.76",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "0.84",
+            "bottom_edge_radius": "0.84"
         },
         "Design_D_12mm": {
             "outer_diameter": "12",
             "model_height": "6",
             "hollow": "true",
-            "wall_thickness": "1.2",
-            "top_edge_radius": "0.54",
-            "bottom_edge_radius": "0.54"
+            "wall_thickness": "1.92",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "0.92",
+            "bottom_edge_radius": "0.92"
         },
         "Design_D_14mm": {
             "outer_diameter": "14",
             "model_height": "7",
             "hollow": "true",
-            "wall_thickness": "1.4",
-            "top_edge_radius": "0.63",
-            "bottom_edge_radius": "0.63"
+            "wall_thickness": "2.24",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "1.08",
+            "bottom_edge_radius": "1.08"
         },
         "Design_D_16mm": {
             "outer_diameter": "16",
             "model_height": "8",
             "hollow": "true",
-            "wall_thickness": "1.6",
-            "top_edge_radius": "0.72",
-            "bottom_edge_radius": "0.72"
+            "wall_thickness": "2.56",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "1.23",
+            "bottom_edge_radius": "1.23"
         },
         "Design_D_18mm": {
             "outer_diameter": "18",
             "model_height": "9",
             "hollow": "true",
-            "wall_thickness": "1.8",
-            "top_edge_radius": "0.81",
-            "bottom_edge_radius": "0.81"
+            "wall_thickness": "2.88",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "1.38",
+            "bottom_edge_radius": "1.38"
         },
         "Design_D_20mm": {
             "outer_diameter": "20",
             "model_height": "10",
             "hollow": "true",
-            "wall_thickness": "2",
-            "top_edge_radius": "0.9",
-            "bottom_edge_radius": "0.9"
+            "wall_thickness": "3.2",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "1.54",
+            "bottom_edge_radius": "1.54"
         },
         "Design_D_24mm": {
             "outer_diameter": "24",
             "model_height": "12",
             "hollow": "true",
-            "wall_thickness": "2.4",
-            "top_edge_radius": "1.08",
-            "bottom_edge_radius": "1.08"
+            "wall_thickness": "3.84",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "1.84",
+            "bottom_edge_radius": "1.84"
         },
         "Design_D_28mm": {
             "outer_diameter": "28",
             "model_height": "14",
             "hollow": "true",
-            "wall_thickness": "2.8",
-            "top_edge_radius": "1.26",
-            "bottom_edge_radius": "1.26"
+            "wall_thickness": "4.48",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "2.15",
+            "bottom_edge_radius": "2.15"
         },
         "Design_D_32mm": {
             "outer_diameter": "32",
             "model_height": "16",
             "hollow": "true",
-            "wall_thickness": "3.2",
-            "top_edge_radius": "1.44",
-            "bottom_edge_radius": "1.44"
+            "wall_thickness": "5.12",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "2.46",
+            "bottom_edge_radius": "2.46"
         },
         "Design_D_38mm": {
             "outer_diameter": "38",
             "model_height": "19",
             "hollow": "true",
-            "wall_thickness": "3.8",
-            "top_edge_radius": "1.71",
-            "bottom_edge_radius": "1.71"
+            "wall_thickness": "6.08",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "2.92",
+            "bottom_edge_radius": "2.92"
         },
         "Design_D_46mm": {
             "outer_diameter": "46",
             "model_height": "23",
             "hollow": "true",
-            "wall_thickness": "4.6",
-            "top_edge_radius": "2.07",
-            "bottom_edge_radius": "2.07"
+            "wall_thickness": "7.36",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "3.53",
+            "bottom_edge_radius": "3.53"
         },
         "Design_D_60mm": {
             "outer_diameter": "60",
             "model_height": "30",
             "hollow": "true",
-            "wall_thickness": "6",
-            "top_edge_radius": "2.7",
-            "bottom_edge_radius": "2.7"
+            "wall_thickness": "9.6",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "4.61",
+            "bottom_edge_radius": "4.61"
         },
         "Design_D_80mm": {
             "outer_diameter": "80",
             "model_height": "40",
             "hollow": "true",
-            "wall_thickness": "8",
-            "top_edge_radius": "3.6",
-            "bottom_edge_radius": "3.6"
+            "wall_thickness": "12.8",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "6.14",
+            "bottom_edge_radius": "6.14"
         },
         "Design_D_100mm": {
             "outer_diameter": "100",
             "model_height": "50",
             "hollow": "true",
-            "wall_thickness": "10",
-            "top_edge_radius": "4.5",
-            "bottom_edge_radius": "4.5"
+            "wall_thickness": "16",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "7.68",
+            "bottom_edge_radius": "7.68"
         },
         "Design_D_150mm": {
             "outer_diameter": "150",
             "model_height": "75",
             "hollow": "true",
-            "wall_thickness": "15",
-            "top_edge_radius": "6.75",
-            "bottom_edge_radius": "6.75"
+            "wall_thickness": "24",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "11.52",
+            "bottom_edge_radius": "11.52"
         },
         "Design_D_200mm": {
             "outer_diameter": "200",
             "model_height": "100",
             "hollow": "true",
-            "wall_thickness": "20",
-            "top_edge_radius": "9",
-            "bottom_edge_radius": "9"
+            "wall_thickness": "32",
+            "top_surface_style": "2",
+            "dome_height": "0",
+            "top_edge_radius": "15.36",
+            "bottom_edge_radius": "15.36"
+        },
+        "Design_E_3mm": {
+            "outer_diameter": "3",
+            "model_height": "0.6",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "0.9",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
+        },
+        "Design_E_4mm": {
+            "outer_diameter": "4",
+            "model_height": "0.8",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "1.2",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
+        },
+        "Design_E_5mm": {
+            "outer_diameter": "5",
+            "model_height": "1",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "1.5",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
+        },
+        "Design_E_6mm": {
+            "outer_diameter": "6",
+            "model_height": "1.2",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "1.8",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
+        },
+        "Design_E_7mm": {
+            "outer_diameter": "7",
+            "model_height": "1.4",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "2.1",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
+        },
+        "Design_E_8mm": {
+            "outer_diameter": "8",
+            "model_height": "1.6",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "2.4",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
+        },
+        "Design_E_9mm": {
+            "outer_diameter": "9",
+            "model_height": "1.8",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "2.7",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
+        },
+        "Design_E_10mm": {
+            "outer_diameter": "10",
+            "model_height": "2",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "3",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
+        },
+        "Design_E_11mm": {
+            "outer_diameter": "11",
+            "model_height": "2.2",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "3.3",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
+        },
+        "Design_E_12mm": {
+            "outer_diameter": "12",
+            "model_height": "2.4",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "3.6",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
+        },
+        "Design_E_14mm": {
+            "outer_diameter": "14",
+            "model_height": "2.8",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "4.2",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
+        },
+        "Design_E_16mm": {
+            "outer_diameter": "16",
+            "model_height": "3.2",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "4.8",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
+        },
+        "Design_E_18mm": {
+            "outer_diameter": "18",
+            "model_height": "3.6",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "5.4",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
+        },
+        "Design_E_20mm": {
+            "outer_diameter": "20",
+            "model_height": "4",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "6",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
+        },
+        "Design_E_24mm": {
+            "outer_diameter": "24",
+            "model_height": "4.8",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "7.2",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
+        },
+        "Design_E_28mm": {
+            "outer_diameter": "28",
+            "model_height": "5.6",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "8.4",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
+        },
+        "Design_E_32mm": {
+            "outer_diameter": "32",
+            "model_height": "6.4",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "9.6",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
+        },
+        "Design_E_38mm": {
+            "outer_diameter": "38",
+            "model_height": "7.6",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "11.4",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
+        },
+        "Design_E_46mm": {
+            "outer_diameter": "46",
+            "model_height": "9.2",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "13.8",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
+        },
+        "Design_E_60mm": {
+            "outer_diameter": "60",
+            "model_height": "12",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "18",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
+        },
+        "Design_E_80mm": {
+            "outer_diameter": "80",
+            "model_height": "16",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "24",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
+        },
+        "Design_E_100mm": {
+            "outer_diameter": "100",
+            "model_height": "20",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "30",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
+        },
+        "Design_E_150mm": {
+            "outer_diameter": "150",
+            "model_height": "30",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "45",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
+        },
+        "Design_E_200mm": {
+            "outer_diameter": "200",
+            "model_height": "40",
+            "hollow": "false",
+            "wall_thickness": "3",
+            "top_surface_style": "1",
+            "dome_height": "60",
+            "top_edge_radius": "0",
+            "bottom_edge_radius": "0"
         }
     }
 }
